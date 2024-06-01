@@ -23,7 +23,7 @@ PACKAGE_VERSION = $(YOUTUBE_VERSION)-$(UYOU_VERSION)
 
 INSTALL_TARGET_PROCESSES = YouTube
 TWEAK_NAME = uYouPlus
-DISPLAY_NAME = YouTube
+DISPLAY_NAME = YouTubePlus
 BUNDLE_ID = com.google.ios.youtube
 
 $(TWEAK_NAME)_FILES := $(wildcard Sources/*.xm) $(wildcard Sources/*.x)
